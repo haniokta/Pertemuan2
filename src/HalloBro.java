@@ -8,7 +8,7 @@ public class HalloBro {
         //1. ganti "Hello World" dengan Nama Anda kemudian Run
         //2. Push ke Github
 
-        System.out.println("hani rikhmawan");
+        System.out.println("haniokta rikhmawan");
     }
 
 }
