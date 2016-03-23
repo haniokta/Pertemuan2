@@ -1,4 +1,4 @@
-/**
+/*
  * Created by Agengrikh on 23/03/2016.
  */
 public class HalloBro {
@@ -8,7 +8,7 @@ public class HalloBro {
         //1. ganti "Hello World" dengan Nama Anda kemudian Run
         //2. Push ke Github
 
-        System.out.println("Hello, World");
+        System.out.println("hani rikhmawan");
     }
 
 }
